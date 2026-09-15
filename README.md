@@ -1,16 +1,26 @@
-## Hi there 👋
+# V3ERA
 
-<!--
-**V3ERA/V3ERA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+PERSONAL AI // BUILT DIFFERENT
+```
 
-Here are some ideas to get you started:
+V3ERA is my personal AI assistant.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Not a chatbot.  
+Not another wrapper.  
+Not something that just sits in a window and talks.
+
+V3ERA is being built to **code, research, automate, use tools, control my system, and actually get things done.**
+
+```text
+◉ MULTI-AGENT
+◉ LOCAL-FIRST
+◉ TOOL-DRIVEN
+◉ ALWAYS EVOLVING
+```
+
+One assistant on the surface.  
+A whole system underneath.
+
+**V3ERA**
+`think // act // build`
